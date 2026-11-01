@@ -3,7 +3,11 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 💡 <em>✏️ A sentence about you and what you do.</em>
+- 💡 <em>Hai, aku Artha, seorang Creative Developer yang menggabungkan desain, teknologi, dan AI untuk menciptakan pengalaman digital yang menarik sekaligus fungsional.
+
+Aku berfokus pada pengembangan website, desain grafis, dan AI workflow automation. Aku senang mengeksplorasi ide, bereksperimen dengan pendekatan baru, dan mengubah konsep menjadi karya digital yang memiliki karakter visual serta tujuan yang jelas.
+
+Saat ini, aku terbuka untuk proyek freelance dan kolaborasi yang memungkinkan ide-ide baru berkembang menjadi sesuatu yang nyata.</em>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
